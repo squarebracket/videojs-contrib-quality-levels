@@ -74,7 +74,7 @@ Representation {
   id: string,
   width: number,
   height: number,
-  bitrate: number,
+  bandwidth: number,
   enabled: function
 }
 ```
